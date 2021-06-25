@@ -17,9 +17,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'CFAI'
-copyright = '2020 - 2022, Wang Yongjie'
-author = 'Wang Yongjie'
+project = 'Robust CE'
+copyright = '2021 - 2022, Qiu Hongyu'
+author = 'Qiu Hongyu'
 
 
 # -- General configuration ---------------------------------------------------
