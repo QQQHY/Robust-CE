@@ -14,6 +14,11 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+from recommonmark.parser import CommonMarkParser
+source_parsers = {
+'.md': CommonMarkParser,
+}
+source_suffix = ['.rst', '.md']
 
 # -- Project information -----------------------------------------------------
 
@@ -68,3 +73,5 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 root_doc = 'index'
+
+
