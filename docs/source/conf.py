@@ -14,11 +14,11 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-from recommonmark.parser import CommonMarkParser
-source_parsers = {
-'.md': CommonMarkParser,
-}
-source_suffix = ['.rst', '.md']
+#from recommonmark.parser import CommonMarkParser
+#source_parsers = {
+#'.md': CommonMarkParser,
+#}
+#source_suffix = ['.rst', '.md']
 
 # -- Project information -----------------------------------------------------
 
@@ -37,8 +37,10 @@ autodoc_mock_imports = ["torch", "sklearn", "numpy", "scipy"]
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'recommonmark',
-    'sphinx_markdown_tables'
+    #'recommonmark',
+    'myst_parser',
+    'sphinx_markdown_tables',
+    
 ]
 
 # Add any paths that contain templates here, relative to this directory.
