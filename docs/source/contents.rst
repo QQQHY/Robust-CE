@@ -20,7 +20,6 @@ Robust Counterfactual Explanation
    Paper/index
 
 
-
 Indices and tables
 ==================
 
