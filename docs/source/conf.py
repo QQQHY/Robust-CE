@@ -26,6 +26,7 @@ release = '0.1'
 
 
 # -- General configuration ---------------------------------------------------
+autodoc_mock_imports = ["torch", "sklearn", "numpy", "scipy"]
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
