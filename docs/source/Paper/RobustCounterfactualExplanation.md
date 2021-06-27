@@ -143,8 +143,7 @@ Generally sorted by date.
   - 作者
     - Alejandro Barredo-Arrieta, Javier Del Ser
   - 出处
-    - IEEE WORLD CONGRESS ON COMPUTATIONAL INTELLIGENCE (WCCI) 2020
-    - 2020 International Joint Conference on Neural Networks (IJCNN)
+    - *IJCNN 2020* : International Joint Conference on Neural Networks  (CCF C)
   
   - 时间
     - Mar 2020
@@ -160,7 +159,7 @@ Generally sorted by date.
   - 作者
     - Kentaro Kanamori  , Takuya Takagi  , Ken Kobayashi,  and Hiroki Arimura
   - 出处
-    - IJCAI-20
+    - *IJCAI-20* (CCF A)
   - 时间
     - June 2020
   - 链接  
