@@ -1,5 +1,5 @@
-sphinx==2.1.2
-sphinx-rtd-theme==0.4.3
+sphinx 
+sphinx-rtd-theme 
 sphinx-autobuild
 recommonmark
 myst_parser

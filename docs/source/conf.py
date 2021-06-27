@@ -39,8 +39,7 @@ autodoc_mock_imports = ["torch", "sklearn", "numpy", "scipy"]
 extensions = [
     #'recommonmark',
     'myst_parser',
-    'sphinx_markdown_tables',
-    
+    'sphinx_markdown_tables',    
 ]
 
 # Add any paths that contain templates here, relative to this directory.
