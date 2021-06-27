@@ -74,4 +74,4 @@ html_static_path = ['_static']
 
 root_doc = 'index'
 
-
+master_doc = 'index'

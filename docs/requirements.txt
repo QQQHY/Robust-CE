@@ -1,2 +1,5 @@
 sphinx==2.1.2
 sphinx-rtd-theme==0.4.3
+sphinx-autobuild
+recommonmark
+sphinx_markdown_tables
