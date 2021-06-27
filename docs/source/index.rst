@@ -16,6 +16,7 @@ Robust Counterfactual Explanation
    :caption: Contents:
 
    about
+   CE
    Paper/index
 
 

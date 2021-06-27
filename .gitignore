@@ -1,0 +1,6 @@
+build/
+cfai/
+tests/
+tutorals/
+readme.md
+setup.py
