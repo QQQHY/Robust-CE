@@ -38,6 +38,7 @@ autodoc_mock_imports = ["torch", "sklearn", "numpy", "scipy"]
 # ones.
 extensions = [
     #'recommonmark',
+    'sphinx.ext.autodoc',
     'myst_parser',
     'sphinx_markdown_tables',    
 ]
