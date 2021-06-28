@@ -63,6 +63,8 @@ Generally sorted by date.
     - <https://arxiv.org/abs/1907.09294>
   - Abstract
     - Post-hoc interpretability approaches have been proven to be powerful tools to generate explanations for the predictions made by a trained black-box model. **However, they create the risk of having explanations that are a result of some artifacts learned by the model instead of actual knowledge from the data**. This paper focuses on the case of counterfactual explanations and asks **whether the generated instances can be justified**, i.e. continuously connected to some ground-truth data. We evaluate the risk of generating unjustified counterfactual examples by investigating the local neighborhoods of instances whose predictions are to be explained and show that this risk is quite high for several datasets. Furthermore, we show that most state of the art approaches do not differentiate justified from unjustified counterfactual examples, leading to less useful explanations.
+  - Code
+    - [The Risk of Unjustified Counterfactual Explanations (TRUCE)](https://github.com/thibaultlaugel/truce)
   - Comment
     - 黑盒模型的事后解释是从模型中学习而非从数据中学习 导致了不合理（即，与真实数据不一致）的解释
 
