@@ -18,6 +18,7 @@ Robust Counterfactual Explanation
    about
    CE
    Paper/index
+   slides&reports
 
 
 Indices and tables

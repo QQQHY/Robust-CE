@@ -5,4 +5,5 @@ Paper
    :maxdepth: 2
    
    RobustCounterfactualExplanation
+   slides&reports
 
