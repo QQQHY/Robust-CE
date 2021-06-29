@@ -67,6 +67,7 @@ Generally sorted by date.
     - [The Risk of Unjustified Counterfactual Explanations (TRUCE)](https://github.com/thibaultlaugel/truce)
   - Comment
     - 黑盒模型的事后解释是从模型中学习而非从数据中学习 导致了不合理（即，与真实数据不一致）的解释
+    - > Laugel et al. says that if the explanation is not based on training data, but the artifacts of non-robustness of the classifier, it is unjustified. They define justified explanations to be connected to training data by a continuous set of datapoints, termed E-chainability.
 
 ***
 
