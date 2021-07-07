@@ -12,6 +12,8 @@
 - Code
   - *Papers With Code*  [Counterfactual Explanation](https://paperswithcode.com/task/counterfactual-explanation)
   - [CARLA](https://github.com/indyfree/CARLA) Counterfactual And Recourse Library
+  - [CEML](https://github.com/andreArtelt/ceml) Counterfactuals for Explaining Machine Learning models
+    - [CEML’s Documentation](https://ceml.readthedocs.io/en/latest/)
 
 - Material
   - [CFAI](https://github.com/wangyongjie-ntu/CFAI) Counterfactual Explanation for AI on Pytorch
